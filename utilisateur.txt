@@ -1,0 +1,10 @@
+var nom;
+var age;
+var travail;
+write("quel est votre nom");
+nom = read();
+write("quel est votre age");
+age = read();
+write("quel est votre travail");
+travail = read();
+write( "votre nom est:" + nom + "vous aviez l\'age de :" +age+ " est vous travail sur" + travail);
