@@ -1,1 +1,12 @@
-write("Hello World ❤️");
+var long;
+var larg;
+var surface;
+var perimetre;
+write(" entre le longeur" );
+long =read();
+write("entre le largeur");
+larg = read()
+surface = long * larg;
+perimetre = (long + larg) * 2;
+write("la sureface est:" + surface  );
+write("la perimetre est:" + perimetre );
